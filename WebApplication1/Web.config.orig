@@ -10,7 +10,11 @@
       <compilation debug="true" targetFramework="4.5" />
       <httpRuntime targetFramework="4.5" />sss 创建分支第一次迁出，第一次嵌入后，又进行了修改
       
-      地区版本此处进行了修改
+<<<<<<< HEAD
+      此处进行了修改
+=======
+      主版本进行修改
+>>>>>>> master
     </system.web>
    
 </configuration>
