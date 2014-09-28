@@ -8,17 +8,17 @@
 <configuration>
     <system.web>
       <compilation debug="true" targetFramework="4.5" />
-<<<<<<< HEAD
-      <httpRuntime targetFramework="4.5" />sss 创建分支第一次迁出，第一次嵌入后，又进行了修改
-      
+      <httpRuntime targetFramework="4.5" />
       地区版本此处进行了修改
       
       登出之后的修改
-=======
-      <httpRuntime targetFramework="4.5" />
->>>>>>> master
     </system.web>
    
 </configuration>
 测试，尝试00002
+<<<<<<< HEAD
 1111111111111111此处没有push
+demo1的用户做了好多修改
+=======
+然后错了。这是master的同事开始做修改了
+>>>>>>> origin/master
